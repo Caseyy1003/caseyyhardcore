@@ -1,0 +1,9 @@
+{
+  "type": "create:splashing",
+  "ingredient": "minecraft:white_glazed_terracotta",
+  "results": [
+    {
+      "id": "minecraft:white_terracotta"
+    }
+  ]
+}
